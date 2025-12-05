@@ -2,7 +2,7 @@ Funcionalidades:
 
 - Adicionar tarefas
 
-- Marcar tarefas como concluída
+- Marcar tarefas como concluídas
 
 - Remover tarefas
 
