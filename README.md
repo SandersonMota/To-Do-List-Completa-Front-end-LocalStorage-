@@ -1,11 +1,11 @@
 Funcionalidades:
 
-- Adicionar tarefa
+- Adicionar tarefas
 
-- Marcar tarefa como concluída
+- Marcar tarefas como concluída
 
-- Remover tarefa
+- Remover tarefas
 
-- Salvar tudo no localStorage
+- Salvar tudo no armazenamento local
 
-- Layout limpo e responsiv
+- Layout limpo e responsivo 
