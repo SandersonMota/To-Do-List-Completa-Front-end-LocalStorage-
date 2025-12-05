@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+/* Título */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Campo de input */
+#taskInput {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+/* Botão adicionar */
+button {
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* Lista de tarefas */
+ul {
+  margin-top: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Item da lista */
+li {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+/* Botão excluir dentro da li */
+li button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+}
